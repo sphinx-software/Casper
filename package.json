@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "sphinx-ghost-theme",
+    "description": "Sphinx ghost theme",
     "demo": "https://demo.ghost.io",
     "version": "2.10.2",
     "engines": {
